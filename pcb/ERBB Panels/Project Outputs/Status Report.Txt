@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [ERBB_Panel.PcbDoc]
+   Generated File[ERBB_Panel.GTL]
+   Generated File[ERBB_Panel.GBL]
+   Generated File[ERBB_Panel.G3]
+   Generated File[ERBB_Panel.GTO]
+   Generated File[ERBB_Panel.GTP]
+   Generated File[ERBB_Panel.GTS]
+   Generated File[ERBB_Panel.GBS]
+   Generated File[ERBB_Panel.GBO]
+   Generated File[ERBB_Panel.GM1]
+   Generated File[ERBB_Panel.GM29]
+   Generated File[ERBB_Panel.GM30]
+   Generated File[ERBB_Panel.GM31]
+   Generated File[ERBB_Panel.GM32]
+   Generated File[ERBB_Panel.GD1]
+   Generated File[ERBB_Panel.RUL]
+   Generated File[ERBB_Panel.EXTREP]
+   Generated File[ERBB_Panel.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 9:41:35 PM On 11/4/2017
